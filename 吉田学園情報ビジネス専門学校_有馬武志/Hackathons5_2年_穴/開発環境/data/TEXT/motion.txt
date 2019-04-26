@@ -1,0 +1,4 @@
+2
+
+data/MOTION/boxrig_Sword.txt
+data/MOTION/boxrig_Stick.txt
