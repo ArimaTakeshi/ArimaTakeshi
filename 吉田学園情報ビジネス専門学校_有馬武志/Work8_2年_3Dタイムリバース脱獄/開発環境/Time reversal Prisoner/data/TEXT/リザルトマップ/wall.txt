@@ -1,0 +1,103 @@
+#====================================================
+#
+#　マップの壁配置のエディタ [wall.txt]
+#　制作者 : 有馬　武志
+#
+#====================================================
+
+#----------------------------------------------------
+#　壁の設置数
+#----------------------------------------------------
+WALL_SETNUM = 11
+
+#----------------------------------------------------
+#　壁の設置情報
+#----------------------------------------------------
+WALL_START
+	POS = -34.00 66.00 865.00
+	ROT = 0.00 0.00 0.00
+	WIDTH = 23.00
+	HIGHT = 28.00
+	TEXTURE = 7
+WALL_END
+
+WALL_START
+	POS = -720.00 0.00 -2600.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 300.00
+	HIGHT = 758.00
+	TEXTURE = 6
+WALL_END
+
+WALL_START
+	POS = -720.00 0.00 -3200.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 300.00
+	HIGHT = 758.00
+	TEXTURE = 6
+WALL_END
+
+WALL_START
+	POS = -720.00 0.00 -3800.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 300.00
+	HIGHT = 758.00
+	TEXTURE = 6
+WALL_END
+
+WALL_START
+	POS = -720.00 0.00 -4400.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 300.00
+	HIGHT = 758.00
+	TEXTURE = 6
+WALL_END
+
+WALL_START
+	POS = -720.00 0.00 -5000.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 300.00
+	HIGHT = 758.00
+	TEXTURE = 6
+WALL_END
+
+WALL_START
+	POS = -720.00 0.00 -5600.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 300.00
+	HIGHT = 758.00
+	TEXTURE = 6
+WALL_END
+
+WALL_START
+	POS = -720.00 0.00 -6197.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 300.00
+	HIGHT = 758.00
+	TEXTURE = 6
+WALL_END
+
+WALL_START
+	POS = 270.00 0.00 -3014.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 600.00
+	HIGHT = 600.00
+	TEXTURE = 6
+WALL_END
+
+WALL_START
+	POS = 265.00 0.00 -4220.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 600.00
+	HIGHT = 600.00
+	TEXTURE = 6
+WALL_END
+
+WALL_START
+	POS = 265.00 0.00 -5420.00
+	ROT = 0.00 0.50 0.00
+	WIDTH = 600.00
+	HIGHT = 600.00
+	TEXTURE = 6
+WALL_END
+

@@ -1,0 +1,65 @@
+﻿  addcoin.cpp
+  billboord.cpp
+  camerabace.cpp
+  car.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  car_point.cpp
+  customer.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  destination.cpp
+  effect.cpp
+  effectmgr.cpp
+  effecttool.cpp
+  game.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  gamecamera.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  grasseffect.cpp
+  ground.cpp
+  humanbace.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  humannpc.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  loadEffect.cpp
+  loadText.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  logo.cpp
+  mark.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  コンパイル中...
+  meshfield.cpp
+  model3D.cpp
+  motion.cpp
+  objbillboad.cpp
+  object.cpp
+  particlebillboad.cpp
+  player.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  report.cpp
+  result.cpp
+  resultplayer.cpp
+  smokeeffect.cpp
+  sparkeffect .cpp
+  time.cpp
+  tire.cpp
+  tutorial.cpp
+c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\humanbace.h(18): warning C4005: 'MAX_PARTS': マクロが再定義されました。
+  c:\users\game103\desktop\今までの作品\work9_3年_3dタクシー\開発環境\taxi\player.h(21): note: 'MAX_PARTS' の以前の定義を確認してください
+  wall.cpp
+  woodeffect.cpp
+  コード生成しています。
+  0 of 1264 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Taxi.vcxproj -> C:\Users\game103\Desktop\今までの作品\Work9_3年_3Dタクシー\開発環境\Release\Taxi.exe
+  Taxi.vcxproj -> C:\Users\game103\Desktop\今までの作品\Work9_3年_3Dタクシー\開発環境\Release\Taxi.pdb (Full PDB)
